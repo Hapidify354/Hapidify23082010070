@@ -1,0 +1,67 @@
+<head>
+  <title>Biodata Pribadi</title>
+  <link rel="stylesheet" href="styling.css">
+</head>
+<body>
+  <!-- HEADER MULAI -->
+  <div class="container-header">
+    <h1>WELCOME TO MY FIRST WEBSITE</h1>
+  </div>
+  <!-- HEADER SELESAI -->
+
+  <!-- CONTENT MULAI -->
+  <div class="container-content">
+    <h2>PERSONAL PROFILE</h2>
+    <div class="profile">
+      <img src="profile.jpg" alt="Profile Photo" width="20%" height="20%">
+    </div>
+    
+    <div class="contact-info">
+        +6282335493825 | wisnuhafidfo@gmail.com | @wisnuhafidfo2
+      </div>
+
+    <div class="biodata">
+      <p><strong>Full Name:</strong> Wisnu Hafid Firdaus Oktobrian</p>
+    <p><strong>Nickname:</strong> Hafid</p>
+    <p><strong>Age:</strong> 18</p>
+    <p><strong>Residence:</strong> PPM KHOIRUL HUDA 3 SURABAYA</p>
+    
+    
+    <p><strong>Education:</strong></p>
+    <ol>
+      <li>SMPN 1 Surabaya (2018-2021)</li>
+      <li>SMAN 10 Surabaya (2021-2023)</li> 
+      <li>Bachelor of Information Systems - UPN "Veteran" Jawa Timur (2023-Present)</li>
+    </ol>
+    
+    <p><strong>Activities:</strong></p>
+    <ol>
+      <li>OSIS at SMAN 10 Surabaya (2021-2022)</li>
+      <li>Attending Some Seminar (2023-2024)</li>
+      <li>Some External Committees at Campus (2023-Present)</li>
+      <li>College Student Islamic Boarding School (2023-Present)</li>
+      <li>Got 500 Points on "Satuan Kredit Poin Mahasiswa"</li>
+    </ol>
+    
+    <p><strong>Achievements:</strong></p>
+    <ol>
+      <li>1st Place in Youthcon Band Competition</li>
+      <li>1st Place in Smanisda Festival</li>
+      <li>3rd Place in SNA Band Competition</li>
+      <li>5th Place in BankJatimFest</li>
+      <li>Smekdors Fiesta Band Competition's Finalist</li>
+      <li>3 times UI/UX Designer Finalist</li>
+    </ol>
+
+    <p><strong>Interests:</strong> Railfans, Sports, Music, Religion, IT</p>
+
+  </div>  
+  <!-- CONTENT SELESAI -->
+
+  <!-- FOOTER MULAI -->
+  <div class="container-footer">
+    <p>Made with Love Sakpol Kemampuan🩵</p>
+  </div>
+  <!-- FOOTER SELESAI -->
+</body>
+</html>
