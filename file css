@@ -1,0 +1,50 @@
+body {
+    height: 100vh;
+    background-color: #fff; 
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container-header {
+    background-color: lightblue;
+    color: #fff; 
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+}
+.container-footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #f0f0f0;
+  }
+  
+  .container-content {
+    padding: 20px;
+  }
+
+  .biodata {
+    margin-top: 50;
+    margin-bottom: 50;
+  }
+  
+  .container-content h2 {
+    text-align: center ;
+  }
+
+  .profile {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .profile img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;    /* memotong gambar agar memenuhi area */
+    border-radius: 50%;
+  }
+  
+  .contact-info {
+    text-align: center;
+    margin: 10px 0;
+  }
